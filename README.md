@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hello, I'm Seoyoung Lee 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amie-lee&show_icons=true&theme=transparent)
+
+---
+
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=amie-lee)](https://github.com/marshallku/gitgarden)
 
 <!--
 **amie-lee/amie-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
