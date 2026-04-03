@@ -3,7 +3,7 @@
 ### About
 💡 Building things at the intersection of design, code, and business.<br>
 💻 B.S. Computer Engineering @ Dankook University `2022.03-`<br>
-✈️ Exchange student in Computer Science @ ELTE, Budapest `2024.09-2025.01`
+✈️ Guest student in Computer Science @ ELTE(Eötvös Loránd University) `2024.09-2025.01`
 
 ### Awards
 🥇 Grand Prize — Dankook University Startup Hackathon `2025.09`<br>
