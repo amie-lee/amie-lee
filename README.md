@@ -1,6 +1,13 @@
-### Hello, I'm Seoyoung Lee 👋
+## Hello, I'm Seoyoung Lee 👋
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amie-lee&show_icons=true&theme=transparent) -->
+### About
+💡 Building things at the intersection of design, code, and business.<br>
+💻 B.S. Computer Engineering @ Dankook University `2022.03-`<br>
+✈️ Exchange student in Computer Science @ ELTE, Budapest `2024.09-2025.01`
+
+### Awards
+🥇 Grand Prize — Dankook University Startup Hackathon `2025.09`<br>
+🥈 Silver Prize — DKU Intelligent Robot Idea Competition `2025.09`
 
 ---
 
