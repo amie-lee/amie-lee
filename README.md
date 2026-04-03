@@ -4,7 +4,7 @@
 
 ---
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=amie-lee)](https://github.com/marshallku/gitgarden)
+[![My Galaxy](https://raw.githubusercontent.com/amie-lee/commit-galaxy/main/galaxy.svg)](https://github.com/amie-lee/commit-galaxy)
 
 <!--
 **amie-lee/amie-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
